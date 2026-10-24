@@ -1,0 +1,10 @@
+# generated PKI material (contains private keys), rebuilt by setup_pki.sh
+ca/
+nodes/
+*.key
+*.srl
+*.csr
+# python
+venv/
+__pycache__/
+*.pyc
